@@ -1,0 +1,17 @@
+C:\Users\nargi\Desktop\part1\UpCasting-part2\UpCasting-part2\bin\Debug\netcoreapp3.1\UpCasting-part2.exe
+C:\Users\nargi\Desktop\part1\UpCasting-part2\UpCasting-part2\bin\Debug\netcoreapp3.1\UpCasting-part2.deps.json
+C:\Users\nargi\Desktop\part1\UpCasting-part2\UpCasting-part2\bin\Debug\netcoreapp3.1\UpCasting-part2.runtimeconfig.json
+C:\Users\nargi\Desktop\part1\UpCasting-part2\UpCasting-part2\bin\Debug\netcoreapp3.1\UpCasting-part2.runtimeconfig.dev.json
+C:\Users\nargi\Desktop\part1\UpCasting-part2\UpCasting-part2\bin\Debug\netcoreapp3.1\UpCasting-part2.dll
+C:\Users\nargi\Desktop\part1\UpCasting-part2\UpCasting-part2\bin\Debug\netcoreapp3.1\UpCasting-part2.pdb
+C:\Users\nargi\Desktop\part1\UpCasting-part2\UpCasting-part2\obj\Debug\netcoreapp3.1\UpCasting-part2.csproj.AssemblyReference.cache
+C:\Users\nargi\Desktop\part1\UpCasting-part2\UpCasting-part2\obj\Debug\netcoreapp3.1\UpCasting-part2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nargi\Desktop\part1\UpCasting-part2\UpCasting-part2\obj\Debug\netcoreapp3.1\UpCasting-part2.AssemblyInfoInputs.cache
+C:\Users\nargi\Desktop\part1\UpCasting-part2\UpCasting-part2\obj\Debug\netcoreapp3.1\UpCasting-part2.AssemblyInfo.cs
+C:\Users\nargi\Desktop\part1\UpCasting-part2\UpCasting-part2\obj\Debug\netcoreapp3.1\UpCasting-part2.csproj.CoreCompileInputs.cache
+C:\Users\nargi\Desktop\part1\UpCasting-part2\UpCasting-part2\obj\Debug\netcoreapp3.1\UpCasting-part2.dll
+C:\Users\nargi\Desktop\part1\UpCasting-part2\UpCasting-part2\obj\Debug\netcoreapp3.1\UpCasting-part2.pdb
+C:\Users\nargi\Desktop\part1\UpCasting-part2\UpCasting-part2\obj\Debug\netcoreapp3.1\UpCasting-part2.genruntimeconfig.cache
+C:\Users\nargi\Desktop\part1\UpCasting-part2\UpCasting-part2\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\nargi\Desktop\part1\UpCasting-part2\UpCasting-part2\bin\Debug\netcoreapp3.1\FakeItEasy.dll
+C:\Users\nargi\Desktop\part1\UpCasting-part2\UpCasting-part2\obj\Debug\netcoreapp3.1\UpCasting-part2.csproj.CopyComplete
